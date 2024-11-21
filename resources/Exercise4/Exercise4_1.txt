@@ -1,0 +1,26 @@
+#VERTEX#
+Aplicacion1
+Aplicacion2
+Aplicacion3
+Aplicacion4
+Aplicacion5
+Aplicacion6
+Aplicacion7
+Aplicacion8
+Aplicacion9
+Aplicacion10
+Aplicacion11
+#EDGE#
+Aplicacion1, Aplicacion2
+Aplicacion1, Aplicacion3
+Aplicacion2, Aplicacion4
+Aplicacion3, Aplicacion4
+Aplicacion4, Aplicacion5
+Aplicacion4, Aplicacion6
+Aplicacion5, Aplicacion7
+Aplicacion6, Aplicacion7
+Aplicacion7, Aplicacion8
+Aplicacion2, Aplicacion9
+Aplicacion9, Aplicacion10
+Aplicacion3, Aplicacion10
+Aplicacion7, Aplicacion11
