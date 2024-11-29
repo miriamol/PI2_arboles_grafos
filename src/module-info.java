@@ -10,5 +10,6 @@ module PI2 {
 	exports exercise3;
 	requires transitive partecomun;
 	requires transitive grafos;
+	requires PI1Exercises;
 
 }

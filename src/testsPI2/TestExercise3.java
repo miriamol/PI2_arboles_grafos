@@ -1,4 +1,4 @@
-package tests;
+package testsPI2;
 
 
 public class TestExercise3 {
