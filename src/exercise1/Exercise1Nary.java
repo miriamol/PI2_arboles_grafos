@@ -8,7 +8,7 @@ public class Exercise1Nary {
 		return mayorPalindromo(tree, "");
 	}
 
-	private static Integer mayorPalindromo(Tree<Integer> tree, String construirPalindromo) {
+	public static Integer mayorPalindromo(Tree<Integer> tree, String construirPalindromo) {
 		return switch (tree.type()) {
 		case Empty -> -1;
 		case Leaf -> {

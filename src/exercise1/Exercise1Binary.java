@@ -50,12 +50,13 @@ public class Exercise1Binary {
 	//  En caso de que existan varios números palíndromos 
 	// de longitud máxima, devuelva cualquiera de ellos.
 	private static int maximoPalindromo(int a, int b) {
-		if (a == -1 && b == -1)
+		if (a == -1 && b == -1) {
 			return -1; // Si ambos son -1, no hay palíndromos
-		if (a == -1)
+		}else if (a == -1) {
 			return b; // Si 'a' es -1, devolver 'b'
-		if (b == -1)
+		} else if (b == -1) {
 			return a; // Si 'b' es -1, devolver 'a'
+		}
 		return Math.max(a, b); // Si ambos son válidos, devolver el mayor
 	}
 }
