@@ -71,8 +71,7 @@ Este ejercicio trabaja con grafos conexos, no dirigidos y ponderados, con las si
   - Grafos configurados con diferentes colores y estilos para resaltar elementos relevantes (estaciones, aristas, dependencias, etc.).
 
 ## Tecnologías Utilizadas
-- Lenguaje de programación: [Especificar el lenguaje principal]
-- Librerías para visualización de grafos: [Especificar librerías, como `matplotlib`, `networkx`, etc.]
+- Lenguaje de programación: JAVA
 - Lectura de ficheros: Manejo eficiente de entrada y salida de datos.
 
 ## Estructura del Repositorio
@@ -84,21 +83,18 @@ Este ejercicio trabaja con grafos conexos, no dirigidos y ponderados, con las si
 ## Uso
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/miriamol/PI2_arboles_grafos.git
    ```
-2. Dirígete al directorio del proyecto:
-   ```bash
-   cd <NOMBRE_DEL_REPOSITORIO>
    ```
-3. Ejecuta los scripts correspondientes a cada ejercicio:
+2. Ejecuta los scripts correspondientes a cada ejercicio:
    ```bash
-   python ejercicio1.py
-   python ejercicio2.py
-   python ejercicio3.py
-   python ejercicio4.py
+   python exercise1.py
+   python exercise2.py
+   python exercise3.py
+   python exercise4.py
    ```
 
 ## Contacto
-Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en abrir un issue o contactar al autor a través de [TU_CORREO].
+Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en abrir un issue o contactar al autor a través de miriamorelpz@gmail.com.
 
 
